@@ -1,2 +1,2 @@
 # LandingPage
- LandingPage do curso Rafaela Ballerine
+Projeto do curso professor Gustavo Guanabara
